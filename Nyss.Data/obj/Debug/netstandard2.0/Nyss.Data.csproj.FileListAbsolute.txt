@@ -1,8 +1,0 @@
-C:\dev\Nyss\Nyss.Data\obj\Debug\netstandard2.0\Nyss.Data.csprojAssemblyReference.cache
-C:\dev\Nyss\Nyss.Data\obj\Debug\netstandard2.0\Nyss.Data.AssemblyInfoInputs.cache
-C:\dev\Nyss\Nyss.Data\obj\Debug\netstandard2.0\Nyss.Data.AssemblyInfo.cs
-C:\dev\Nyss\Nyss.Data\bin\Debug\netstandard2.0\Nyss.Data.deps.json
-C:\dev\Nyss\Nyss.Data\bin\Debug\netstandard2.0\Nyss.Data.dll
-C:\dev\Nyss\Nyss.Data\bin\Debug\netstandard2.0\Nyss.Data.pdb
-C:\dev\Nyss\Nyss.Data\obj\Debug\netstandard2.0\Nyss.Data.dll
-C:\dev\Nyss\Nyss.Data\obj\Debug\netstandard2.0\Nyss.Data.pdb
