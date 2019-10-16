@@ -1,4 +1,4 @@
-﻿//using NetTopologySuite.Geometries;
+﻿using NetTopologySuite.Geometries;
 using Nyss.Data.Concepts;
 
 namespace Nyss.Data.Models
@@ -17,7 +17,7 @@ namespace Nyss.Data.Models
 
         public string AdditionalPhoneNumber { get; set; }
 
-        //public Point Location { get; set; }
+        public Point Location { get; set; }
 
         public virtual SupervisorUser Supervisor { get; set; }
 

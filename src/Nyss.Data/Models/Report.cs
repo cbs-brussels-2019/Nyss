@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-//using NetTopologySuite.Geometries;
+using NetTopologySuite.Geometries;
 using Nyss.Data.Concepts;
 
 namespace Nyss.Data.Models
@@ -27,7 +27,7 @@ namespace Nyss.Data.Models
 
         public bool IsTraining { get; set; }
 
-        //public Point Location { get; set; }
+        public Point Location { get; set; }
 
         public ReportCase ReportedCase { get; set; }
 
