@@ -20,7 +20,7 @@ export default class NavMenu extends React.Component {
   render () {
     return (
       <header>
-        <Navbar className="navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3" light >
+        <Navbar className="border-bottom box-shadow" light >
             <Container>
                     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IFRC_Logo.png" alt="Red Cross logo" width="80px"/>
           </Container>
